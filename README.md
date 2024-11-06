@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 My portfolio website is available at [dzabrzenski.pl](dzabrzenski.pl)
+- 👨‍💻 My portfolio website is available at <a href="dzabrzenski.pl" target="_blank" rel="noreferrer">dzabrzenski.pl</a>
 
 - 📫 How to reach me **dawidzabrzenski00@gmail.com**
 
-- 📄 Know about my experiences [dzabrzenski.pl/resume.pdf](dzabrzenski.pl/resume.pdf)
+- 📄 Know about my experiences <a href="dzabrzenski.pl/resume.pdf" target="_blank" rel="noreferrer">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
